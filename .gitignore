@@ -1,0 +1,7 @@
+__pycache__
+/.vscode/
+/data/*
+/util/*
+!/data/*.py
+!/util/*.py
+/1.py
